@@ -1,0 +1,16 @@
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\bin\Release\netstandard2.0\Employee.Api.Data.deps.json
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\bin\Release\netstandard2.0\Employee.Api.Data.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\bin\Release\netstandard2.0\Employee.Api.Data.pdb
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\bin\Release\netstandard2.0\Employee.Common.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\bin\Release\netstandard2.0\Employee.Entity.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\bin\Release\netstandard2.0\Employee.Model.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\bin\Release\netstandard2.0\Employee.Common.pdb
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\bin\Release\netstandard2.0\Employee.Entity.pdb
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\bin\Release\netstandard2.0\Employee.Model.pdb
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\obj\Release\netstandard2.0\Employee.Api.Data.csproj.AssemblyReference.cache
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\obj\Release\netstandard2.0\Employee.Api.Data.AssemblyInfoInputs.cache
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\obj\Release\netstandard2.0\Employee.Api.Data.AssemblyInfo.cs
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\obj\Release\netstandard2.0\Employee.Api.Data.csproj.CoreCompileInputs.cache
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\obj\Release\netstandard2.0\Employee.Api.Data.csproj.CopyComplete
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\obj\Release\netstandard2.0\Employee.Api.Data.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Api.Data\obj\Release\netstandard2.0\Employee.Api.Data.pdb

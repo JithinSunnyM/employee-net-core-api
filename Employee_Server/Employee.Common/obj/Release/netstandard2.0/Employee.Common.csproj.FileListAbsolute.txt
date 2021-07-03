@@ -1,0 +1,12 @@
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\bin\Release\netstandard2.0\Employee.Common.deps.json
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\bin\Release\netstandard2.0\Employee.Common.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\bin\Release\netstandard2.0\Employee.Common.pdb
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\bin\Release\netstandard2.0\Employee.Model.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\bin\Release\netstandard2.0\Employee.Model.pdb
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\obj\Release\netstandard2.0\Employee.Common.csproj.AssemblyReference.cache
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\obj\Release\netstandard2.0\Employee.Common.AssemblyInfoInputs.cache
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\obj\Release\netstandard2.0\Employee.Common.AssemblyInfo.cs
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\obj\Release\netstandard2.0\Employee.Common.csproj.CoreCompileInputs.cache
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\obj\Release\netstandard2.0\Employee.Common.csproj.CopyComplete
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\obj\Release\netstandard2.0\Employee.Common.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Common\obj\Release\netstandard2.0\Employee.Common.pdb

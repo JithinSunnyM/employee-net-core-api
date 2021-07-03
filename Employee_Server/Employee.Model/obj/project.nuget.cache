@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h4UHw62P3lzEY6Q0i47n1V9+zjNBSDypN/W6bUVWEugpa8xTtw1nW9lro3d+RcC0tF1foyOYgVr2yyGwAAJMOQ==",
+  "success": true,
+  "projectFilePath": "D:\\_GitHub\\Employee-main\\Server\\Employee_Server\\Employee.Model\\Employee.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jithin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jithin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

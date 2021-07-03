@@ -1,0 +1,8 @@
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Model\bin\Release\netstandard2.0\Employee.Model.deps.json
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Model\bin\Release\netstandard2.0\Employee.Model.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Model\bin\Release\netstandard2.0\Employee.Model.pdb
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Model\obj\Release\netstandard2.0\Employee.Model.AssemblyInfoInputs.cache
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Model\obj\Release\netstandard2.0\Employee.Model.AssemblyInfo.cs
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Model\obj\Release\netstandard2.0\Employee.Model.csproj.CoreCompileInputs.cache
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Model\obj\Release\netstandard2.0\Employee.Model.dll
+D:\_GitHub\Employee-main\Server\Employee_Server\Employee.Model\obj\Release\netstandard2.0\Employee.Model.pdb
